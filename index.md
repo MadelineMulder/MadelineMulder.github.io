@@ -1,6 +1,6 @@
 ---
 title: E-Portfolio
-feature_text: Copernicus Masters in Digital Earth
+feature_text: |
   ## E-Portfolio
   An online portfolio of work created as part of the CDE Masters program
 feature_image:"https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/irritated.jpg"
