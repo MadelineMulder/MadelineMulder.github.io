@@ -3,7 +3,7 @@ title: E-Portfolio
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "[https://picsum.photos/1300/400?image=989](https://th.bing.com/th/id/R.13e69bae84bbab9a235d7edfb553f191?rik=HyMM%2bNijv0lUkA&pid=ImgRaw&r=0)"
+feature_image: "https://th.bing.com/th/id/R.13e69bae84bbab9a235d7edfb553f191?rik=HyMM%2bNijv0lUkA&pid=ImgRaw&r=0"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
