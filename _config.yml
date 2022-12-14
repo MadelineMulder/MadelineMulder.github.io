@@ -21,6 +21,7 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
+- elements.md
 
 # 2. Installed Gems
 plugins:
@@ -124,7 +125,7 @@ navigation_header:
 - title: Home
   url: /
 - title: About Me
-  url: /elements/
+  url: /About/
 - title: Blog
   url: /blog/
 - title: Courses
