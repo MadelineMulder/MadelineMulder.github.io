@@ -1,7 +1,7 @@
 ---
 title: E-Portfolio
 feature_text: |
-  ## Alembic
+  ## E-Portfolio
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/irritated.jpg"
 excerpt: "An E-Porfolio to document my CDE Masters experience and work"
