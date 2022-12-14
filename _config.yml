@@ -69,7 +69,7 @@ collections:
     description: "Reflections on the Selected Topics in Geoinformatics Lecture Series" # The post list page content
     feature_text: |
       Selected Topics in Geoinformatics
-    feature_image: "https://2.bp.blogspot.com/-NmOFZwo7nS0/WRobUYH0ewI/AAAAAAAALFk/PoLcr8RWmdY-cxmuEzeREXb-L_urkpyrQCLcB/s1600/clouds-twitter-header1500x500-09.jpg"
+    feature_image: "https://cdn.pixabay.com/photo/2020/05/29/10/33/banner-5234587_1280.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -131,7 +131,7 @@ navigation_header:
 - title: Courses
   url: /categories/
 - title: Personal Projects
-  url: https://github.com/daviddarnes/alembic
+  url: /personal/
 - title: Search
   url: /search/
 
