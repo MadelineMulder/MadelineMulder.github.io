@@ -12,4 +12,3 @@ aside: true
 ``` html
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
 
-<iframe src="https://storymaps.arcgis.com/stories/da669377ff2c46c08f583a4cb4829ed5?header" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
