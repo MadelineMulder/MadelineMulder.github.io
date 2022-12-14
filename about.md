@@ -1,11 +1,8 @@
 ---
-title: About
+title: Elements
 feature_text: |
-  About Me
-feature_image: "https://myredmouse.com/wp-content/uploads/2019/04/background-header-technology.jpg"
-excerpt: "Education and Projects"
+  A demo of Markdown and HTML includes
+feature_image: "https://picsum.photos/2560/600?image=873"
+excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
-# Methods in Spatial Analysis
-
-
