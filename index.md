@@ -3,7 +3,7 @@ title: E-Portfolio
 feature_text: |
   ## E-Portfolio
   An online portfolio of geoinformatic porjects and products
-feature_image: "https://i.pinimg.com/originals/0c/87/e7/0c87e73212810452c8fea3ac45b3c4d3.png"
+feature_image: "https://cdn.pixabay.com/photo/2020/05/18/08/56/banner-5185316_1280.jpg"
 excerpt: "An E-Porfolio to document my CDE Masters experience and work"
 ---
 
