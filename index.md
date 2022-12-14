@@ -2,8 +2,8 @@
 title: E-Portfolio
 feature_text: |
   ## E-Portfolio
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/irritated.jpg"
+  An online portfolio of geoinformatic porjects and products
+feature_image: "https://1.bp.blogspot.com/-lPd1Nj0R_uc/XdfLs321FLI/AAAAAAAAC-U/0vc_sdcsvXQcJLlNpedS3vvRVF4wdUXDwCLcBGAsYHQ/s1600/Copernicus%2BMasters%2Bin%2BDigital%2BEarth.PNG"
 excerpt: "An E-Porfolio to document my CDE Masters experience and work"
 ---
 
