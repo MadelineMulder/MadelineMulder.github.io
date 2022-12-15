@@ -1,8 +1,8 @@
 ---
-title: Personal
+title: About
 feature_text: |
-  Personal Projects
-feature_image: "https://cdn.pixabay.com/photo/2020/05/29/10/33/banner-5234587_1280.jpg"
-excerpt: "Personal Projects"
+  About me
+feature_image: "https://cdn.pixabay.com/photo/2020/05/21/11/08/banner-5200269_1280.jpg"
+excerpt: "About me"
 aside: true
 ---
