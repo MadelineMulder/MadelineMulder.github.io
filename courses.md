@@ -4,6 +4,8 @@ aside: true
 ---
 {% include map.html id="da669377ff2c46c08f583a4cb4829ed5" title="Distance Analysis" %}
 
+{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+
 <h1>Methods in Spatial Analysis</h1>
 
 <h3>Lab 1: Distance Analysis</h3>
