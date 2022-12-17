@@ -22,6 +22,7 @@ exclude:
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
 - elements.md
+- categories.md
 
 # 2. Installed Gems
 plugins:
@@ -129,7 +130,7 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Courses
-  url: /categories/
+  url: /courses/
 - title: Personal Projects
   url: /personal/
 - title: Search
