@@ -8,3 +8,5 @@ aside: true
 ---
 
 ![Madeline Mulder Profile Picture](https://github.com/MadelineMulder/MadelineMulder.github.io/blob/0d8a126822de5369fe851a80b1c55cc41da84af3/assets/me.png)
+
+{% include figure.html image="https://github.com/MadelineMulder/MadelineMulder.github.io/blob/0d8a126822de5369fe851a80b1c55cc41da84af3/assets/me.png" alt= Madeline Mulder Profile Picture" %}
