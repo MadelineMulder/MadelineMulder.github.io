@@ -9,4 +9,3 @@ aside: true
 ![Profile](assets/me.png)
 
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
