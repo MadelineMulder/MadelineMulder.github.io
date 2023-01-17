@@ -6,4 +6,7 @@ feature_image: "https://cdn.pixabay.com/photo/2020/05/21/11/08/banner-5200269_12
 excerpt: "About me"
 aside: true
 ---
-![Profile Picture](assets/me.png "Madeline Mulder")
+![Profile](assets/me.png)
+
+
+![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
