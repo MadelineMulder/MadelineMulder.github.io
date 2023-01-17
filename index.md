@@ -2,12 +2,12 @@
 title: E-Portfolio
 feature_text: |
   ## E-Portfolio
-  An online portfolio of geoinformatic porjects and products
+  An online portfolio of geoinformatic projects and products
 feature_image: "https://cdn.pixabay.com/photo/2020/05/18/08/56/banner-5185316_1280.jpg"
 excerpt: "An E-Porfolio to document my CDE Masters experience and work"
 ---
 
-This online portfolio documents my experience and work as part of the Copernicus in Digital Earth Masters. I am on the Geovisualization and Geocommunication track.
+This online portfolio documents my experience and work as part of the Copernicus in Digital Earth Masters program. I am on the Geovisualization and Geocommunication track.
 
 
 
