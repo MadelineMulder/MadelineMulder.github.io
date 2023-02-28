@@ -17,4 +17,4 @@ This online portfolio documents my experience and work as part of the Copernicus
 
 {% include figure.html image="https://1.bp.blogspot.com/-lPd1Nj0R_uc/XdfLs321FLI/AAAAAAAAC-U/0vc_sdcsvXQcJLlNpedS3vvRVF4wdUXDwCLcBGAsYHQ/s1600/Copernicus%2BMasters%2Bin%2BDigital%2BEarth.PNG" alt= "Copernicus Masters Logo" %}
 
-![Erasmus Logo][E:\Tutorials\Markdown\Resource\img\Profile.jpeg]
+![Erasmus Logo](erasmus_logo.jpg)
