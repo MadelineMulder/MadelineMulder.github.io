@@ -20,9 +20,11 @@ This project was the first time I had ever used experience builder. There was a 
 
 As a final step for the project and my last task for my internship, I was also asked to propose a new layout for the hub featuring the new products I had created, which I did using Figma. At the moment my changes have not been made live as the future of the project is still being discussed but below is a sneak peak of my final web app. 
 
-![redesigned GIS for Peace web app](GIS4Peace_WebApp.jpg)
+![original GIS for Peace web app](Original_GIS4Peace_Hub.jpg)
+Figure 1. Screenshot of one of the three original databases for resources prior to the redesign.
 
-See the hub here: ([GIS for Peace](https://gis-4-peace-dssdglobal.hub.arcgis.com/)) 
+![redesigned GIS for Peace web app](GIS4Peace_WebApp.jpg)
+Figure 2. Screenshot of the final redesigned GIS for Peace web app with all resource types included in one database. Access the hub here: ([GIS for Peace](https://gis-4-peace-dssdglobal.hub.arcgis.com/)) 
 
 Overall, I had a great experience at my internship. I really enjoyed the fact that I was given a lot of freedom in the redesign of the project as I was given total responsibility for it. The project that I worked on certainly was a lesson in patience. There were many times that I had to re-evaluate and redo portions of the entire project due to team member and user feedback. However, in the end, this only served to make my final products all the better. Additionally, I found that my tasks during the internship allowed for a good mix of old and new skills. I was able to rely on my previous knowledge and skills to develop the survey and web map but I also learned a whole new software with experience builder. At the same time, I was able to connect with a whole new community through the DSSD team and our ESRI and Alliance for peacebuilding partners. So even though I was working alone on this project, I really felt supported by my team. I met with my supervisor every two weeks and was able to contact the DSSD team at any time via slack. On top of that I was able to meet with the greater DSSD a couple of times during my internship and each time we met the team provided invaluable feedback and support. I would strongly encourage students and recent graduates to consider an internship not just as a way to gain new skills but also as a way to find and build strong and supportive personal and professional networks. 
 
