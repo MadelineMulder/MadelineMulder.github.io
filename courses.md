@@ -6,7 +6,7 @@ aside: true
 <h1>Methods in Spatial Analysis</h1>
 
 <h3>Lab 1: Distance Analysis</h3>
-{::comment}[![Distance Analysis](https://resumeexpert.ca/regencygroup/wp-content/uploads/2019/10/Moncton.Logo_-1024x550.png)](https://storymaps.arcgis.com/stories/da669377ff2c46c08f583a4cb4829ed5){/:comment}
+[![Distance Analysis](https://resumeexpert.ca/regencygroup/wp-content/uploads/2019/10/Moncton.Logo_-1024x550.png)](https://storymaps.arcgis.com/stories/da669377ff2c46c08f583a4cb4829ed5)
 <div class="map"><iframe src="https://storymaps.arcgis.com/stories/da669377ff2c46c08f583a4cb4829ed5?header" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe></div>
 
 <h3>Lab 2: Selection & Aggregation</h3>
